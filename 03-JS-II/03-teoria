@@ -1,0 +1,3 @@
+For: es una estructura de control en bucle, donde una misma accion se ejecutara una y otra vez hasta que una condicion dada inicialmente sea falsa. consta de 3 partes, una variable inicializada que sera el contador, una condicion que debe ser verdadera y un incremento, estas tres cosas deben estar separadas por ; entre si.
+
+&& || !: SOn los operadores logicos, AND, OR, NOT, con el primero la condicion sera verdadera solo si los dos valores a comparar son verdaderos, en la segunda basta con que un valor sea verdadero para que sea verdadero y finalmente en el ultimo, el valor entregado se negara.
